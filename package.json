@@ -1,0 +1,15 @@
+{
+  "name": "algoviz",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @algoviz/web",
+    "build": "npm run build --workspace @algoviz/web",
+    "preview": "npm run preview --workspace @algoviz/web",
+    "typecheck": "npm run typecheck --workspace @algoviz/web"
+  }
+}
+

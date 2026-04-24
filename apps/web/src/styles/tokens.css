@@ -1,0 +1,21 @@
+:root {
+  --bg-app: #070d14;
+  --bg-surface: #0f1b29;
+  --bg-surface-soft: #13263a;
+  --bg-sidebar: #081321;
+  --text-primary: #eff8ff;
+  --text-secondary: #99afc4;
+  --text-on-dark: #e8f6ff;
+  --accent-primary: #ff6b35;
+  --accent-secondary: #08c4b2;
+  --accent-warning: #ffd166;
+  --accent-info: #46a6ff;
+  --border-subtle: rgba(153, 175, 196, 0.3);
+  --shadow-soft: 0 18px 45px rgba(0, 0, 0, 0.32);
+  --radius-lg: 20px;
+  --radius-md: 14px;
+  --radius-sm: 10px;
+  --font-display: "Sora", "Segoe UI", sans-serif;
+  --font-ui: "Plus Jakarta Sans", "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", "Consolas", monospace;
+}
